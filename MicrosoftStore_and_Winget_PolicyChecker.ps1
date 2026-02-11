@@ -1,7 +1,6 @@
 # ============================================
-# Microsoft Store and Winget Checker
-# Version: 1.0
-# Author: Floyd K
+# Microsoft Store & Winget Diagnostics Script
+# Version: 2.0.0 (Improved)
 # ============================================
 
 
